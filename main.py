@@ -7,6 +7,6 @@
 name = input("Enter Your Name : ")
 age = input("Enter Your Age : ")
 
-print("Welcome to Rizvi College of Engg.")
+print("Welcome to Rizvi College of Engineering")
 print("Hello,", name)
 print("You age is", age)
