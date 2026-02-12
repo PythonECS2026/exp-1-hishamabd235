@@ -4,8 +4,8 @@
 # Date: 5th January 2026
 
 # Write your code here
-name = input("Enter Your Name : ")
-age = input("Enter Your Age : ")
+name = input("Enter Name: ")
+age = input("Enter Age: ")
 
 print("Welcome to Rizvi College of Engineering")
 print("Hello,", name)
