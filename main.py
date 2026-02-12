@@ -9,4 +9,4 @@ age = input("Enter Age: ")
 
 print("Welcome to Rizvi College of Engineering")
 print("Hello,", name)
-print("You age is", age)
+print(f"You are {age} years old.")
